@@ -46,7 +46,8 @@
 2. ProGen, https://zenodo.org/records/7309036  
 
 ## Generative Protein Structure Design
-1. RFDiffusion, https://github.com/RosettaCommons/RFdiffusion  
+1. RFDiffusion, https://github.com/RosettaCommons/RFdiffusion
+2. Chroma, https://github.com/generatebio/chroma, "This model suppports various conditional generation even including natural language prompt, but use this feature with caution."  
 
 ## Visualise/GUI
 ### Tools
