@@ -2,9 +2,9 @@
 ## Stability
 ### Tools
 1. FoldX, http://foldxsuite.crg.eu/documentation#manual  
-2. Rosetta ddg_monomer, https://www.rosettacommons.org/docs/latest/application_documentation/analysis/ddg-monomer  
-3. Rosetta cartesian_ddg, https://www.rosettacommons.org/docs/latest/cartesian-ddG  
-4. Pythia, https://github.com/Wublab/Pythia/tree/main  
+2. Rosetta ddg_monomer, https://www.rosettacommons.org/docs/latest/application_documentation/analysis/ddg-monomer, "A fast ∆∆G predictor based on Rosetta All-atom energy function"  
+3. Rosetta cartesian_ddg, https://www.rosettacommons.org/docs/latest/cartesian-ddG, "The most accurate ∆∆G predictor but very slow"  
+4. Pythia, https://github.com/Wublab/Pythia/tree/main, "A self-supervised model based on Boltzmann hypothesis to predict stability of mutations based on structure input"  
 
 ### Web app
 1. Pythia, https://pythia.wulab.xyz/  
